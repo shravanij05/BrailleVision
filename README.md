@@ -281,8 +281,3 @@ BrailleConnect aims to bridge the communication gap between Braille users and no
 
 This project is developed for educational, research, and accessibility-focused purposes.
 
----
-
-## Acknowledgement
-
-Made for **BrailleVision Hackathon 2026**.
